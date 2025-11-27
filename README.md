@@ -1,4 +1,13 @@
-## Hi there 👋
+Professional Web & App Developer & Designer.
+
+Technologies I use for web development:
+- HTML, CSS, JavaScript, React, PHP
+
+Technologies I use for app development:
+- C/C++, Java, Node.js
+
+Technologies I use for design:
+- Inkscape, Figma
 
 <!--
 **tadeaswunsch/tadeaswunsch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
